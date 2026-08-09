@@ -74,6 +74,6 @@ This project focuses on building a reliable messaging workflow that can be used 
 
 ## 📫 Let's Connect
 
-- GitHub: [Your GitHub Profile Link](https://github.com/AmirrezaJafari2004)
-- LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/amirreza-jafari-513726333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [AmirrezaJafari2004](https://github.com/AmirrezaJafari2004)
+- LinkedIn: [amirreza-jafari](https://www.linkedin.com/in/amirreza-jafari-513726333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: amirreza.jafari.noohoji7@gmail.com
