@@ -72,8 +72,19 @@ This project focuses on building a reliable messaging workflow that can be used 
 
 ---
 
-## 📫 Let's Connect
+  ## 📫 Let's Connect
 
-- GitHub: [AmirrezaJafari2004](https://github.com/AmirrezaJafari2004)
-- LinkedIn: [amirreza-jafari](https://www.linkedin.com/in/amirreza-jafari-513726333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: amirreza.jafari.noohoji7@gmail.com
+<p align="left">
+  <a href="https://github.com/AmirrezaJafari2004">
+    <img src="https://img.shields.io/badge/GitHub-AmirrezaJafari2004-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/amirreza-jafari-513726333">
+    <img src="https://img.shields.io/badge/LinkedIn-Amirreza%20Jafari-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/thereal_amirreza">
+    <img src="https://img.shields.io/badge/Instagram-thereal__amirreza-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:amirreza.jafari.noohoji7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
