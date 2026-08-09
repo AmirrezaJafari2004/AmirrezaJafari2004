@@ -25,6 +25,7 @@ This system detects vehicles from traffic videos, counts vehicles per lane, visu
 - PyInstaller executable build
 - Independent from Google Maps or external traffic APIs
 
+[View Repository](https://github.com/AmirrezaJafari2004/ Traffic_Detection)
 ---
 
 ### 🔹 SMS Gateway
