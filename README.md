@@ -42,6 +42,23 @@ This project focuses on building a reliable messaging workflow that can be used 
 - Suitable for notification and communication systems
 
 ---
+### 🔹 Coffee Shop Frontend
+
+A responsive single-page coffee shop website built with HTML, CSS, and vanilla JavaScript.
+
+The project features a responsive navigation menu, search-box interaction, product cards, customer reviews, and a modern layout optimized for desktop and mobile devices.
+
+**Highlights:**
+
+- Responsive design for mobile and desktop
+- Interactive mobile navigation menu
+- Search-box toggle functionality
+- Product showcase section
+- Customer testimonials
+- Clean UI with custom CSS
+- HTML, CSS, and vanilla JavaScript
+
+[View Repository](https://github.com/AmirrezaJafari2004/coffee-shop-frontend)
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +74,9 @@ This project focuses on building a reliable messaging workflow that can be used 
 - Excel report generation
 - Backend development concepts
 - SMS Gateway systems
-
+- HTML5
+- CSS3
+- JavaScript
 ---
 
 ## 📌 What I'm Interested In
