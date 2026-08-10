@@ -100,7 +100,7 @@ The project features a responsive navigation menu, search-box interaction, produ
   <a href="https://github.com/AmirrezaJafari2004">
     <img src="https://img.shields.io/badge/GitHub-AmirrezaJafari2004-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/amirreza-jafari-513726333">
+  <a href="https://www.linkedin.com/in/Amirreza-Jafari-Nohooji">
     <img src="https://img.shields.io/badge/LinkedIn-Amirreza%20Jafari-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/thereal_amirreza">
